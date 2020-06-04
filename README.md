@@ -6,7 +6,7 @@ This is a website for Horiseon, which is a company that helps businesses with th
 ![Website Screenshot](assests/images/horiseon-screenshot.png)
 
 ## Link to Website
-https://jessejacobson.github.io/Horiseon-Social-Solution-Services-Website/
+https://jessejacobson.github.io/Horiseon/
 
 ## Support
 jesseajacobson47@gmail.com
